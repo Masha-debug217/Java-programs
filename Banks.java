@@ -8,6 +8,7 @@ class Bank
 }
 class KCB extends Bank
 {
+    @override
     double display()
     {
      return 0.10;

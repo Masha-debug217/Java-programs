@@ -70,6 +70,7 @@ public class Calculator
          {
             System.out.println( "Invalid operator");
          }
+         enter.close();
 
 }
     

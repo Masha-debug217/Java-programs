@@ -12,7 +12,7 @@ class LocalStudent implements Student
 }
 class InternationalS implements Student
 {
-    @Override
+   // @Override
     public void apply()
     {
         System.out.println("Apply for Visa");

@@ -6,6 +6,7 @@ class Student
     int rollno;
     double fee;
 
+
     Student(String name, int age, int rollno, double fee)
     {
         this.name = name;
@@ -20,8 +21,8 @@ class Student
       System.out.println("Rollno:"  + rollno);
       System.out.println("Fee: Ksh." + fee);
 
-     }
-}
+     }}
+
 
 public class  constractor
 {

@@ -4,7 +4,7 @@ abstract class Student
 }
 class Localstudent extends Student
 {
-  //  @ Override
+  // @ Override
     void apply()
     {
         System.out.println("Apply for National Id");

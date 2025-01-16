@@ -16,7 +16,7 @@ class Scanner {
     }
 
     void displayRecord() {
-        System.out.println(name + " " + number + " " + size + " " + shape + " " + price);
+        System.out.println(name + " \n" + number + " " + size + " " + shape + " " + price);
     }
 }
 
